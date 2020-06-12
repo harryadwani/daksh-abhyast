@@ -1,5 +1,5 @@
 {
-  "name": "simple-videochat-webrtc",
+  "name": "daksh-abhyast",
   "version": "1.0.0",
   "description": "Video Chat between 2 people using simple-peer",
   "main": "main.js",
@@ -9,9 +9,10 @@
   },
   "author": "abhyast",
   "dependencies": {
-    "express": "^4.16.4",
-    "simple-peer": "^9.2.1",
-    "socket.io": "^2.2.0"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "simple-peer": "^9.7.2",
+    "socket.io": "^2.3.0"
   },
   "devDependencies": {
     "watchify": "^3.11.1"
